@@ -1,5 +1,5 @@
 const USER_ID = '3015512';
-const server = 'https://tasks-list-backend.herokuapp.com/'
+const server = 'https://tasks-list-backend.herokuapp.com'
 const el_tasks_list = document.getElementById('tasksList');
 const el_taskForm = document.getElementById('taskForm');
 const el_taskInput = document.getElementById('taskInput');
